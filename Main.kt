@@ -1,7 +1,6 @@
 import java.util.*
 
 fun main(){
-    val VOLKSWAGEN_CALIFORNIA = 73490
     val SCAN = Scanner(System.`in`)
     println("¿Es la versión Camper Full Equip? (s/n)")
     var respuesta = SCAN.nextLine()

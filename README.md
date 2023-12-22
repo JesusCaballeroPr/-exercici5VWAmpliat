@@ -15,7 +15,7 @@ Además, tendremos en cuenta si ese determinado coche cuenta con soporte para bi
 Finalmente, en el main instanciaremos a las funciones creadas en el orden que creamos oportuno a traves de unas variables creadas, así también podremos imprimirlas por pantallas con facilidad.
 #### Ejecución del código
 ![Ejecución Primera](https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/blob/master/imagen.png)
-![Ejecución Segunda] (https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/blob/master/ejecucion2.png)
-![Código1] (https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/blob/master/codigo1.png)
-![Código2] (https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/blob/master/codigo2.png)
+![Ejecución Segunda](https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/blob/master/ejecucion2.png)
+![Código1](https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/blob/master/codigo1.png)
+![Código2](https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/blob/master/codigo2.png)
 

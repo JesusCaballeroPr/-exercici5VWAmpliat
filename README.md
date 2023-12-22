@@ -13,9 +13,14 @@ Aquí encontraremos diversas funciones encargadas de, a partir de la recepción 
 Además, tendremos en cuenta si ese determinado coche cuenta con soporte para bici, o si se trata del Full Equip
 ### Main
 Finalmente, en el main instanciaremos a las funciones creadas en el orden que creamos oportuno a traves de unas variables creadas, así también podremos imprimirlas por pantallas con facilidad.
-#### Ejecución del código
+#### Ejecución del código:
+##### Primera Ejecución
 ![Ejecución Primera](https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/blob/master/imagen.png)
+##### Segunda Ejecución
 ![Ejecución Segunda](https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/blob/master/ejecucion2.png)
+#### Líneas del código:
+##### Función Main
 ![Código1](https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/blob/master/codigo1.png)
+##### Función portaBicis
 ![Código2](https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/blob/master/codigo2.png)
 

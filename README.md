@@ -1,3 +1,5 @@
+![Sin título](https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/assets/153681465/797672d3-6755-4148-9dc6-8686efbe8175)
+
 # VOLKSWAGEN GRAND CALIFORNIA
 ## Descripción:
 Es un programa donde se realizarán una serie de comprobaciones relacionadas con los valores de mercado de dos coches y las varianzas de modelo.
@@ -11,3 +13,9 @@ Aquí encontraremos diversas funciones encargadas de, a partir de la recepción 
 Además, tendremos en cuenta si ese determinado coche cuenta con soporte para bici, o si se trata del Full Equip
 ### Main
 Finalmente, en el main instanciaremos a las funciones creadas en el orden que creamos oportuno a traves de unas variables creadas, así también podremos imprimirlas por pantallas con facilidad.
+#### Ejecución del código
+![Ejecución Primera](https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/blob/master/imagen.png)
+![Ejecución Segunda] (https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/blob/master/ejecucion2.png)
+![Código1] (https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/blob/master/codigo1.png)
+![Código2] (https://github.com/JesusCaballeroPr/-exercici5VWAmpliat/blob/master/codigo2.png)
+
